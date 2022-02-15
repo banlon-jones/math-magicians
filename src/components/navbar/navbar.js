@@ -9,13 +9,13 @@ function Navbar() {
         <ul className="nav">
           <li className="nav-item"><a to="/"> Math magicians </a></li>
           <li className="nav-item right">
-            <Link to="/"> Home </Link>
+            <Link to="/quote">Quote</Link>
           </li>
           <li className="nav-item right">
             <Link to="/calculator">Calculator</Link>
           </li>
           <li className="nav-item right">
-            <Link to="/quote">Quote</Link>
+            <Link to="/"> Home </Link>
           </li>
         </ul>
       </nav>
