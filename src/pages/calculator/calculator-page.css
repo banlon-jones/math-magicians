@@ -1,0 +1,8 @@
+.flex-d {
+    display: flex;
+    flex-flow: row;
+}
+
+div h1 {
+    margin: 0 15%;
+}

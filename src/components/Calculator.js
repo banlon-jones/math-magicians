@@ -18,7 +18,7 @@ function Calculator() {
   };
 
   return (
-    <div className="container">
+    <div>
       <div className="screen">
         {
           state.total ? (<div className="display">{state.total}</div>) : ''

@@ -24,8 +24,11 @@
 }
 
 .container {
-  width: 570px;
   margin: 10% 30% 10% 30%;
+}
+
+.container-fluid {
+  margin: 5% 15%;
 }
 
 .screen {
