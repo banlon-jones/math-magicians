@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
-    "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "big.js": "^6.1.1",
     "eslint-config-airbnb": "^19.0.4",
@@ -12,6 +11,7 @@
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
+    "react-test-renderer": "0.0.0-experimental-a44a7a2a3-20211111",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/react": "^12.1.2",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",

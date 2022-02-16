@@ -15,7 +15,6 @@ function Homepage() {
           4004, the first microprocessor,
           was developed by Intel for the Japanese calculator company Busicom.
           They later became used commonly within the petroleum industry (oil and gas).
-
         </p>
       </div>
     </div>
