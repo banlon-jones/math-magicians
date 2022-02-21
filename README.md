@@ -5,7 +5,7 @@
 - Make simple calculations.
 - Read a random math-related quote.
 
-#Demo
+# Demo
 - https://youthful-stonebraker-000d1c.netlify.app/
 - https://gillesworld.herokuapp.com/
 
